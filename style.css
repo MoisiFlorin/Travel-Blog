@@ -313,17 +313,14 @@ footer ul {
     #logo-img {
         width: 70px;
         height: 70px;
-        padding-top: 10px;
     }
-
-
 
     #logo p {
         display: none;
     }
 
     nav ul {
-        margin-left: 20px
+        margin-left: 20px;
     }
 
 
@@ -342,10 +339,9 @@ footer ul {
 
 }
 
-@media only screen and (max-width: 377px) {
+@media only screen and (max-width: 456px) {
     nav ul {
-        margin-left: 0;
-        padding-left: 0;
+        margin-left: 40px;
     }
 
     aside {
